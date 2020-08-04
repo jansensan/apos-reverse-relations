@@ -17,6 +17,10 @@ var apos = require('apostrophe')({
     // However any modules that are not present by default in Apostrophe must at
     // least have a minimal configuration here: `moduleName: {}`
 
+    'mjb-articles': {},
+    'mjb-organizations': {},
+    'mjb-persons': {},
+
     // If a template is not found somewhere else, serve it from the top-level
     // `views/` folder of the project
 
