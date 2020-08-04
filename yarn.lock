@@ -489,7 +489,7 @@ any-base@^1.1.0:
   resolved "https://registry.yarnpkg.com/any-base/-/any-base-1.1.0.tgz#ae101a62bc08a597b4c9ab5b7089d456630549fe"
   integrity sha512-uMgjozySS8adZZYePpaWs8cxB9/kdzmpX6SgJZ+wbz1K5eYk5QMYDVJaZKhxyIHUdnnJkfR7SVgStgH7LkGUyg==
 
-apostrophe@^2.103.1:
+apostrophe@^2.110.0:
   version "2.110.0"
   resolved "https://registry.yarnpkg.com/apostrophe/-/apostrophe-2.110.0.tgz#20849ade927d348830fd3a9f8bd5ed6f8307117f"
   integrity sha512-xrg+7lI66nZA/31iFwgMi5zVC7KkdaLFcCXtLkxILwamCs/B1dIGvyvPJwICTv+a8xLkgz1RCGXOfXvcRfiXzA==
